@@ -1,14 +1,21 @@
 ### Resource:
 
-For this exercise, you will be using the OMDB API, one of the most famous publicly accessible web APIs.  To get started, check out [the documentation](https://www.omdbapi.com/).
+For this exercise, you will be using the [GA SUPER-CRUD API](https://super-crud.herokuapp.com/), a publicly accessible web API.  To get started, check out [the documentation](https://github.com/SF-WDI-LABS/super-crud-api). Read it thoroughly, and please DO NOT reset the Seed Data (the very bottom option).
 
 ### Small exercise: 
-Construct OMDB queries to find the answers:
-- What is the plot for Tarzan (1999)?
-- Who are the main actors in Tarzan (2016)?
-- Who directed Home Alone 2 (1992)?
-- Who is the main actor in The Emperor's New Groove?
-- What is the `tomatoMeter` (a number) for Lilo & Stitch?
-- And what is the `DVD` release date?
-- Who is the director of the 2009 movie Sherlock Holmes?
-- In what year did Sherlock the TV series begin? (the one with Benedict Cumberbuns)
+Construct URL queries to answer the following questions:
+
+- How many books are stored in the super-crud?
+<!-- https://super-crud.herokuapp.com/books -->
+- What's the enpoint (URL) of ONLY To Kill A Mocking Bird?
+<!-- https://super-crud.herokuapp.com/books/594e48804cccd700112f1b10 -->
+- What's Metapod's Pokedex number?
+<!-- https://super-crud.herokuapp.com/pokemon/5964278e09c58b0011397f97 -->
+- What does Vulpix evolve from?
+<!-- https://super-crud.herokuapp.com/pokemon/5964278e09c58b0011397faf -->
+- What is the plural form of 'Pokemon'?
+<!-- It says in the documentation -->
+- What properties are available for wines?
+<!-- https://super-crud.herokuapp.com/wines -->
+- How much does a bottle of Domaine du Bouscat cost?
+<!-- https://super-crud.herokuapp.com/wines/594e48864cccd700112f1b14 -->
