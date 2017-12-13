@@ -19,3 +19,16 @@ Construct URL queries to answer the following questions:
 <!-- https://super-crud.herokuapp.com/wines -->
 - How much does a bottle of Domaine du Bouscat cost?
 <!-- https://super-crud.herokuapp.com/wines/594e48864cccd700112f1b14 -->
+
+### Pair Activity:
+
+Now turn to the person next to you.  Check your answers to the above exercises, and clear up any questions either of you have about these requests.
+
+#### Post and Delete:
+
+With the same partner, discuss how you would create a new object in Pokemons, Wines, or Books.
+
+- `POST` this new object to the list, and verify it is there by getting the list again.
+- `DELETE` your new object and verify it is gone.  **DO NOT DELETE OTHER PEOPLE'S OBJECTS**, that's just mean.
+
+If you and your partner are not sure how to make the `POST` and `DELETE` requests, check [the documentation](https://github.com/SF-WDI-LABS/super-crud-api).
