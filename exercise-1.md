@@ -7,7 +7,7 @@ Construct URL queries to answer the following questions:
 
 - How many books are stored in the super-crud?
 <!-- https://super-crud.herokuapp.com/books -->
-- What's the enpoint (URL) of ONLY To Kill A Mocking Bird?
+- What's the endpoint (URL) of ONLY To Kill A Mocking Bird?
 <!-- https://super-crud.herokuapp.com/books/594e48804cccd700112f1b10 -->
 - What's Metapod's Pokedex number?
 <!-- https://super-crud.herokuapp.com/pokemon/5964278e09c58b0011397f97 -->
