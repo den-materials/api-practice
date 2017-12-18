@@ -1,6 +1,6 @@
 ### Resource:
 
-For this exercise, you will be using the [GA SUPER-CRUD API](https://super-crud.herokuapp.com/), a publicly accessible web API.  To get started, check out [the documentation](https://github.com/SF-WDI-LABS/super-crud-api). Read it thoroughly, and please DO NOT reset the Seed Data (the very bottom option).
+For this exercise, you will be using the [GA SUPER-CRUD API](https://den-super-crud.herokuapp.com/), a publicly accessible web API.  To get started, check out [the documentation](https://github.com/den-materials/super-crud-api). Read it thoroughly, and please DO NOT reset the Seed Data (the very bottom option).
 
 ### Small exercise: 
 Construct URL queries to answer the following questions:
