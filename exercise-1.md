@@ -31,4 +31,4 @@ With the same partner, discuss how you would create a new object in Pokemons, Wi
 - `POST` this new object to the list, and verify it is there by getting the list again.
 - `DELETE` your new object and verify it is gone.  **DO NOT DELETE OTHER PEOPLE'S OBJECTS**, that's just mean.
 
-If you and your partner are not sure how to make the `POST` and `DELETE` requests, check [the documentation](https://github.com/SF-WDI-LABS/super-crud-api).
+If you and your partner are not sure how to make the `POST` and `DELETE` requests, check [the documentation](https://github.com/den-materials/super-crud-api).
