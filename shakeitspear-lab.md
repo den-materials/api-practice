@@ -2,7 +2,7 @@
 
 ### Part I: Make API calls in the browser
 - API: http://shakeitspeare.com/
-- Example site built with this API: http://zebgirouard.com/shakeitspear-app/
+- Example site built with this API: http://portfolio.zebgirouard.com/shakeitspear-app/
 - Check out the API docs & find the endpoints:
   - What are they?
   - How many are there?
